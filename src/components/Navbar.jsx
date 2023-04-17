@@ -9,12 +9,12 @@ function Navbar() {
             <img src={Logo} alt="an image" />
         </div>
 
-        {/* <div className="links">
+        <div className="links">
             <Link to="/">Home</Link>
             <Link to="/menu">Menu</Link>
             <Link to="/about">About</Link>
             <Link to="/contact">Contact</Link>
-        </div> */}
+        </div>
     </div>
 
   )
